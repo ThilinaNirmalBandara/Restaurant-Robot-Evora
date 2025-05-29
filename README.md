@@ -46,3 +46,15 @@ Evora combines a SAM3X8E microcontroller-powered brain with reliable sensor arra
 - Adaptable to various restaurant layouts and service models.
 
 ---
+
+## 🖼️ Robot Preview
+
+![Front View of Evora](Images/front.png)
+![Side View of Evora](Images/side.png)
+![View1 View of Evora](Images/view.png)
+![View2 View of Evora](Images/sview.png)
+
+## 🖼️ Working Product
+![Side View of Evora](Images/image1.png)
+![Side View of Evora](Images/image2.png)
+
