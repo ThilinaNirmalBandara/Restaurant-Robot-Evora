@@ -55,6 +55,8 @@ Evora combines a SAM3X8E microcontroller-powered brain with reliable sensor arra
 ![View2 View of Evora](Images/sview.png)
 
 ## 🖼️ Working Product
-![Side View of Evora](Images/image1.png)
-![Side View of Evora](Images/image2.png)
+![Side View of Evora](Images/image1.png)  
+![Side View of Evora](Images/image2.png)  
+<img src="Images/Front1.jpg" alt="Front View of Evora" width="280"/>
+
 
